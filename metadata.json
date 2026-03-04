@@ -1,0 +1,9 @@
+{
+  "name": "OmniAI: Universal Intelligence",
+  "description": "A professional-grade universal AI assistant for research, coding, image generation, and task automation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
